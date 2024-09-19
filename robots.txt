@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://xkocuypo.github.io/sitemap/sitemap.txt
